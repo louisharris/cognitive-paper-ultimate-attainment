@@ -1,15 +1,10 @@
 # Cognitive Paper Ultimate Attainment
 gotta reproduce teh data
 
-Has all the stuff so easy clones i think
-
-## ik u probs know this but need to write something in the README
-### to get...
-~: git clone [project URL] [location] 
-
-### to update git project...
-git commit
-git push
-
-### to pull project/update your copy...
-git pull
+ - Clone this
+ - Download the data files 'data.csv', 'compiled.csv', 'processing.R' linked below:
+ 
+ http://osf.io/pyb8s
+ 
+ - Add the downloaded files to the cloned directory
+ - Make sure these files are not committed to master as the file sizes are too large and data needs not be changed!
